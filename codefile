@@ -1,10 +1,7 @@
-This a code file -first line of code from mumbai
-second line of the code from mumbai
-first line of code from singapore
-second line of code from singapore
- 
-already the above written content is on the file 
-we executed stash command already 
-now i will commit this file 
-later on ill complete the code onthe  stash file and commit
-
+second line of code from singapore.
+Iam using this file for stash purpose.
+now ill exit here
+I had called the stash file and had written the code 
+now ill exit
+bye bye
+>>>>>>> Stashed changes
